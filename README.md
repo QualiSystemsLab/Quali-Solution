@@ -5,11 +5,11 @@
 
 ![quali](quali.png)
 
-# <Solution Name>
+## (Solution Name)
 
-Command line utility for *Shells Developers* of our **CloudShell** platform.  It helps in creating a new shell based on a template, build an installable shell package and install a shell into your **CloudShell** instance.
 
-## Why use <Solution Name>?
+
+## Why use (Solution Name)
 
 
 
